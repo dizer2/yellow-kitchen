@@ -1,2 +1,16 @@
 # yellow-kitchen
-This is my project Figma to html (scss, js)
+
+### Main features: 
+ - Html
+ - Scss
+ - Methodology Bem
+ - UX & UI
+ - Javascript
+
+ 
+
+
+---
+
+https://dizer2.github.io/Meta/
+
