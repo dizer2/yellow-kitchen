@@ -12,5 +12,4 @@
 
 ---
 
-https://dizer2.github.io/Meta/
-
+https://yellow-kitchen.netlify.app/
